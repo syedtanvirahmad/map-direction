@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Map Direction API</string>
+    <string name="google_direction_api">AIzaSyDQ46q9_pMpYMP6APiQK8hXRiAMcRvXNRQ</string>
+    <string name="google_map_api">AIzaSyBLLYIzpIOsoiscb6BT1Uj2Bsp0fpEaxoo</string>
+    <string name="google_places_api">AIzaSyDZ46P6SGrbl8H-1oX-u428LLBYv1fRDbs</string>
+    <string name="google_distance_matrix_api">AIzaSyD0fs9JZ8eptR7JKyWS6t2eyhicW_6jfO8</string>
+    <string name="google_geolocation_api">AIzaSyCgdGptWul-YCgnjmX9MoMQ1BpkFp65oQ8</string>
+    <string name="title_activity_maps">Polygons</string>
+</resources>
